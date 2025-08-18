@@ -39,7 +39,7 @@ This project focuses on understanding customer orders, sales revenue, and produc
 
 ## 5. Dashboard 
 
-   <a href="https://github.com/Srikath-hub/Ecommerce-Sales-Analysis/blob/main/Screenshot%202025-08-08%20184349.png">View Dashboard </a>
+   <a href="https://github.com/Anitha-Kunchala/Ecommerce-Sales-Analysis/blob/main/Screenshot%202025-08-11%20124459.png">View Dashboard </a>
 
 ## 6. Final Conclusion
 
