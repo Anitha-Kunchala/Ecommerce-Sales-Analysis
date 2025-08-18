@@ -28,13 +28,13 @@ This project focuses on understanding customer orders, sales revenue, and produc
 
 
 
-## 4. Sample KPIs
+## 4. Dashboard KPIs
 
-- **Total Revenue**: ₹120,000+  
-- **Total Orders**: 1,000+  
+- **Total Sales**: ₹11,100+  
+- **Total Orders**: 10  
 - **Top Category**: Electronics  
 - **Top Country**: USA  
-- **Average Order Value**: ₹300
+- **Average Order Value**: ₹1110
 
 
 ## 5. Dashboard 
