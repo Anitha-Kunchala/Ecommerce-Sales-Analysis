@@ -3,13 +3,13 @@
 
 To analyze e-commerce sales data using Microsoft Excel and build an interactive dashboard that displays key metrics such as total sales, best-selling products, category-wise performance, and customer demographics. This project demonstrates essential data analysis and visualization skills for entry-level data analysts.
 
----
+
 
 ## 2. Project Overview
 
 This project focuses on understanding customer orders, sales revenue, and product trends from an e-commerce dataset. The Excel dashboard provides a simple, effective way to visualize data insights and supports decision-making.
 
----
+
 
 ## 3. Key Features
 
@@ -20,7 +20,7 @@ This project focuses on understanding customer orders, sales revenue, and produc
 -  Top Selling Products
 -  KPIs: Total Revenue, Total Orders, Quantity Sold, Average Order Value
 
----
+
 
 
 
@@ -39,7 +39,7 @@ This project focuses on understanding customer orders, sales revenue, and produc
 
 ## 5. Dashboard 
 
-   <a href="https://github.com/Anitha-Kunchala/Ecommerce-Sales-Analysis/blob/main/Screenshot%202025-08-11%20124459.png">View Dashboard </a>
+   <a href="https://github.com/Anitha-Kunchala/Ecommerce-Sales-Analysis/blob/main/Screenshot%202025-08-20%20212137.png">View Dashboard </a>
 
 ## 6. Final Conclusion
 
